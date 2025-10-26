@@ -115,3 +115,15 @@ imports: [BrowserModule], (o imports é para todos os modules)
 - Atributos ex: <div felipe>Felipe<div/> na folha de estilo ex: div[felipe] {background-color: green;}
 
 ## Projeto3cd projeto3
+- Atributos Html, cada elemento tem atributos diferentes
+- Propriedades
+
+# Property Binding do Angular e Event Binding
+- os colchetes [] envia um valor, os parentises () recebe um valor
+
+# Atribute Binding
+- [attr.nomedoatributo]
+
+# CSS Style Binding
+
+# Property Bing Class dos elementos
